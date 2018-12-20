@@ -5,6 +5,8 @@
  * Add snippet to functions.php
  * Replace $adwords_id and $gtag_tracking_id with your values
  * 
+ * By Brandyn Lordi
+ * https://github.com/BrandynL
  */
 
 // if global site tag not installed, enable this action:
